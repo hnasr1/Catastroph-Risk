@@ -1,0 +1,16 @@
+{
+   "Gebaeude" : 2000,
+   "Flugdach" : 2000, 
+   "Hochhaus" : 2000, 
+   "Im Bau" : 2000,
+   "Kapelle" : 4500,
+   "Lagertank" : 4500,
+   "Mauer gross" : 2000,
+   "Offenes Gebaeude" : 4500,
+   "Sakraler Turm" : 4500,
+   "Sakrales Gebaeude" : 4500,
+   "Treibhaus" : 4500,
+   "Turm" : 4500,
+   "Verbindungsbruecke" : 4500  
+}
+
